@@ -1,0 +1,6 @@
+node_modules
+*.debug
+.env
+
+# Ignore built ts files
+dist
